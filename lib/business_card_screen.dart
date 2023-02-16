@@ -94,7 +94,8 @@ class BusinessCardScreen extends StatelessWidget
                       fontWeight: FontWeight.w400,
                     ),
                   ),
-                )),
+                )
+             ),
           ],
         ),
       ),
