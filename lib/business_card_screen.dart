@@ -67,7 +67,7 @@ class BusinessCardScreen extends StatelessWidget
                     size: 35.0,
                   ),
                   title: Text(
-                    '(+20) 1156380715',
+                    '(+20) 1156980715',
                     style: TextStyle(
                       fontSize: 25.0,
                       fontWeight: FontWeight.w400,
